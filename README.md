@@ -16,9 +16,9 @@ A centralized, header-only C++ utility library providing reusable helper functio
 * **Console Input Protection:** Prevents infinite loops caused by invalid stream data (`std::cin`) and forces safe re-entry.
 
 ### 🧰 2. General Utilities Toolkit (`clsUtil.h`)
-* **Random Generators:** Secure algorithms for generating random numbers, characters, dynamic keys, and formatted tokens.
-* **Array & Data Processing:** High-performance functions for array shuffling, element swapping, and data filling.
-* **Encryption & Security:** Integrated basic text encryption and decryption functions.
+* **Random Generators:** Standard algorithms for generating random numbers, characters, dynamic keys, and formatted tokens.
+* **Array & Data Processing:** Utility functions for array shuffling, element swapping, and data filling pipelines.
+* **Text Processing & Security:** Integrated basic text encryption and decryption handlers.
 
 ### 📅 3. Date & Time Processing (`clsDate.h`)
 * **Comprehensive Date Arithmetic:** Add/subtract days, calculate precise differences between dates, and identify leap years.
